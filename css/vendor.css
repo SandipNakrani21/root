@@ -381,7 +381,7 @@ aside section {
     right: 0px;
     bottom: 0px;
     height: 30%;
-    background: #f7f1d7
+    /* background: #f7f1d7 */
 }
 
 #wrapper {
@@ -401,7 +401,7 @@ aside section {
 }
 
 #cloud1 {
-    background: url(../images/cloud1.png) repeat-x 0 0;
+    /* background: url(../images/cloud1.png) repeat-x 0 0; */
     height: 24px;
     background-size: auto 100%;
     position: absolute;
@@ -409,7 +409,7 @@ aside section {
 }
 
 #cloud2 {
-    background: url(../images/cloud2.png) repeat-x 0 0;
+    /* background: url(../images/cloud2.png) repeat-x 0 0; */
     height: 63px;
     background-size: auto 100%;
     position: absolute;
@@ -417,7 +417,7 @@ aside section {
 }
 
 #cloud3 {
-    background: url(../images/cloud3.png) repeat-x 0 0;
+    /* background: url(../images/cloud3.png) repeat-x 0 0; */
     height: 40px;
     background-size: auto 100%;
     position: absolute;
@@ -425,7 +425,7 @@ aside section {
 }
 
 #cloud4 {
-    background: url(../images/cloud4.png) repeat-x 0 0;
+    /* background: url(../images/cloud4.png) repeat-x 0 0; */
     height: 59px;
     background-size: auto 100%;
     position: absolute;
